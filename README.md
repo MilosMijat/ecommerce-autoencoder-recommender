@@ -1,1 +1,1 @@
-# ecommerce-autoencoder-recommender
+Originalni dataset je veoma redak i sadrži veliki broj korisnika i proizvoda. Direktno formiranje guste user-item matrice zahtevalo bi preko 40 GB RAM memorije. Zbog toga su zadržani samo aktivniji korisnici i popularniji proizvodi, čime je dobijena manja matrica pogodna za trening autoenkodera.
